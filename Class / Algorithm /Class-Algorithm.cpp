@@ -1,5 +1,3 @@
-//Abdulkerim çiçek 425476
-//Alaattin uysal 425492
 
 #include <iostream>
 #include <iomanip>
